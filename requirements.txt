@@ -1,0 +1,17 @@
+tgcrypto
+ffmpeg-python
+pyrogram
+python-dotenv
+dnspython
+gitpython
+asgiref
+aiofiles
+aiohttp
+requests
+pillow
+heroku3
+motor
+psutil
+future
+wget
+pymongo
